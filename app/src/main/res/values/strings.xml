@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">seance2</string>
+    <string name="account">vous n avez pas de compte ?</string>
+    <string name="sing_up"><u>Sign Up</u></string>
+    <string name="username">Phone number, username or email</string>
+    <string name="password">password</string>
+    <string name="forgot_password"><u>forgot password ?</u></string>
+    <string name="login"><u>Log In</u></string>
+    <string name="or"><u>OR</u></string>
+    <string name="continue_as"><u>Continue as</u></string>
+    <string name="p1">
+        lorem lorem lorem lorem lorem lorem lorem 
+    </string>
+
+    <string name="logo_name">Mobile<b>App</b></string>
+    <string name="username_input">username</string>
+    <string name="rememberme">Remember me</string>
+    <string name="forgot_password2">forgot password ?</string>
+    <string name="login2">Login</string>
+    <string name="not_memeber">Not a member?</string>
+    <string name="create_account">Create an account</string>
+</resources>
